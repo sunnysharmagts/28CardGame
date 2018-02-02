@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">28</string>
+    <string name="open_trump_card">Open Trump Card</string>
+    <string name="play">Play</string>
+    <string name="about">About 28</string>
+    <string name="exit_game">Are you sure you want to exit game ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="opponent_score">(First, Third)</string>
+    <string name="ally_score">(Second, You)</string>
+    <string name="play_another_game">Do you want to play another game ?</string>
+    <string name="zero">0</string>
+    <string name="bids">bids</string>
+	<string name="calls">calls</string>
+	<string name="pass">pass</string>
+	<string name="has_set_trump_on">has set trump on</string>
+	<string name="player1">David</string>
+	<string name="player2">Nash</string>
+	<string name="player3">Shaun</string>
+	<string name="exit">Exit</string>
+	<string name="noThanks">No Thanks!</string>
+	<string name="seventhCard">7th Card</string>
+	<string name="easy">Easy</string>
+	<string name="hard">Hard</string>
+	<string name="strdouble">Double</string>
+</resources>
